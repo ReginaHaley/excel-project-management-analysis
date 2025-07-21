@@ -14,6 +14,12 @@ The dataset includes 46 projects across 15 departments such as Operations, Marke
 - `Screenshot_Excel_pivot.png` – PivotTable summary of project counts  
 - `Screenshot_Excel_Pie.png` – Pie chart visualization of project distribution
 
+## 📊 Visuals
+
+![Pivot Table Summary](images/Screenshot_Excel_pivot.png)  
+![Project Distribution Pie Chart](images/Screenshot_Excel_Pie.png)
+
+
 ## 📁 Files Included
 
 - `Project-Management-Sample-Data.xlsx` – Raw dataset with project information
