@@ -4,7 +4,7 @@ This project demonstrates how to analyze and visualize departmental project dist
 
 ## 📊 Project Overview
 
-The dataset includes 46 projects across 15 departments such as Operations, Marketing, Research, and Support. Using Excel, I created:
+The dataset includes 46 projects across 15 departments such as Operations, Marketing, Research and Support. Using Excel, I created:
 
 - A **PivotTable** to summarize the number of projects per department
 - A **Pie Chart** to visually represent how projects are distributed across departments
